@@ -95,6 +95,10 @@ You can trigger commands using the bot's prefix. The default prefixes are `!`, `
 
 Contributions are welcome! If you'd like to contribute to Kord-AI, feel free to submit a pull request or open an issue on GitHub.
 
+### Channel Link/Contact
+please join the [Channel Link by clinking here](https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817) => https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817
+M32669
+you can contact me [here](https://t.me/chatWithKord_bot) => https://t.me/chatWithKord_bot
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
